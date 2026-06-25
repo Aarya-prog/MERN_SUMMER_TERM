@@ -84,11 +84,12 @@ function Home({addToCart}) {
     <section className="about">
       <h2>Why Choose Us?</h2>
       <p>
-        We provide affordable, durable and nice designs, perfrect for gifting.
+        We provide affordable, durable and nice designs, perfect for gifting.
       </p>
     </section>
 
     </div>
   );
 }
+
 export default Home;

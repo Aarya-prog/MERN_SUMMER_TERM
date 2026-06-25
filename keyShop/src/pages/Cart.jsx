@@ -62,4 +62,5 @@ function Cart({cartItems}){
     </section>
    )
 }
+
 export default Cart;
